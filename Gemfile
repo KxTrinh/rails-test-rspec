@@ -58,10 +58,10 @@ group :development, :test do
   # test unitaire
   gem 'rspec'
 
-  # pour crée des factories
+  # pour créer des factories
   gem 'factory_bot_rails'
 
-  # pour verifié les associations des models
+  # pour verifier les associations des models
   gem 'shoulda-matchers'
 end
 
